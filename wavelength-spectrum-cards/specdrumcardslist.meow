@@ -1,0 +1,1011 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cards>
+  <card>
+    <left>Kiepskie</left>
+    <right>Dobre</right>
+  </card>
+  <card>
+    <left>Lekko uzależniające</left>
+    <right>Mocno uzależniające</right>
+  </card>
+  <card>
+    <left>Gorące</left>
+    <right>Zimne</right>
+  </card>
+  <card>
+    <left>Normalne</left>
+    <right>Dziwne</right>
+  </card>
+  <card>
+    <left>Bez koloru</left>
+    <right>Kolorowe</right>
+  </card>
+  <card>
+    <left>Nisko kaloryczne</left>
+    <right>Kaloryczne</right>
+  </card>
+  <card>
+    <left>Źle się z tym czujesz</left>
+    <right>Dobrze się z tym czujesz</right>
+  </card>
+  <card>
+    <left>Zbędne</left>
+    <right>Niezbędne</right>
+  </card>
+  <card>
+    <left>Tanie</left>
+    <right>Drogie</right>
+  </card>
+  <card>
+    <left>Niedoceniona broń</left>
+    <right>Przeceniona broń</right>
+  </card>
+  <card>
+    <left>Rzadkie</left>
+    <right>Częste</right>
+  </card>
+  <card>
+    <left>Nieseksowne emoji</left>
+    <right>Seskowne emoji</right>
+  </card>
+  <card>
+    <left>Prosty przedmiot</left>
+    <right>Trudny przedmiot</right>
+  </card>
+  <card>
+    <left>Nieznane</left>
+    <right>Sławne</right>
+  </card>
+  <card>
+    <left>Trydne w użyciu</left>
+    <right>Proste w użyciu</right>
+  </card>
+  <card>
+    <left>Zmęczony</left>
+    <right>Nabuzowany</right>
+  </card>
+  <card>
+    <left>Brudne</left>
+    <right>Czyste</right>
+  </card>
+  <card>
+    <left>Wymaga szczęścia</left>
+    <right>Wymaga umiejetności</right>
+  </card>
+  <card>
+    <left>Bezsmakowe</left>
+    <right>Pełne smaku</right>
+  </card>
+  <card>
+    <left>Nudny temat</left>
+    <right>Ciekawy temat</right>
+  </card>
+  <card>
+    <left>Zły aktor</left>
+    <right>Dobry aktor</right>
+  </card>
+  <card>
+    <left>Zwykłe</left>
+    <right>Hipsterskie</right>
+  </card>
+  <card>
+    <left>Niebezpieczna praca</left>
+    <right>Bezpieczna praca</right>
+  </card>
+  <card>
+    <left>Fantasy</left>
+    <right>Sci-Fi</right>
+  </card>
+  <card>
+    <left>Na co dzień</left>
+    <right>Wyjściowe</right>
+  </card>
+  <card>
+    <left>Niedopłacane</left>
+    <right>Przepłacane</right>
+  </card>
+  <card>
+    <left>Suche</left>
+    <right>Mokre</right>
+  </card>
+  <card>
+    <left>Niedoceniona umiejetność</left>
+    <right>Przeceniona umiejetność</right>
+  </card>
+  <card>
+    <left>Zakazane</left>
+    <right>Zachęcane</right>
+  </card>
+  <card>
+    <left>Smutna piosenka</left>
+    <right>Szczęśliwa piosenka</right>
+  </card>
+  <card>
+    <left>Kruche</left>
+    <right>Wytrzymałe</right>
+  </card>
+  <card>
+    <left>Pasjonat</left>
+    <right>Przychlast</right>
+  </card>
+  <card>
+    <left>Dobre</left>
+    <right>Złe</right>
+  </card>
+  <card>
+    <left>Najgorszy dzień roku</left>
+    <right>Najlepszy dzień roku</right>
+  </card>
+  <card>
+    <left>Zły nawyk</left>
+    <right>Dobry nawyk</right>
+  </card>
+  <card>
+    <left>Kociarz</left>
+    <right>Psiarz</right>
+  </card>
+  <card>
+    <left>Guilty pleasure</left>
+    <right>Otwarcie kochać</right>
+  </card>
+  <card>
+    <left>Beztalencie</left>
+    <right>Utalentowane</right>
+  </card>
+  <card>
+    <left>Ciemne</left>
+    <right>Jasne</right>
+  </card>
+  <card>
+    <left>Niedoceniony aktor</left>
+    <right>Przeceniony aktor</right>
+  </card>
+  <card>
+    <left>Trudne do znalezienia</left>
+    <right>Łatwe do znalezienia</right>
+  </card>
+  <card>
+    <left>Brzydki człowiek</left>
+    <right>Piękny człowiek</right>
+  </card>
+  <card>
+    <left>Trudne do zapamiętania</left>
+    <right>Łatwe do zapamiętania</right>
+  </card>
+  <card>
+    <left>Ignorant</left>
+    <right>Intelektualista</right>
+  </card>
+  <card>
+    <left>Niezdrowe</left>
+    <right>Zdrowe</right>
+  </card>
+  <card>
+    <left>Zły człowiek</left>
+    <right>Dobry człowiek</right>
+  </card>
+  <card>
+    <left>Ważny dla historii</left>
+    <right>Nieważny dla historii</right>
+  </card>
+  <card>
+    <left>Łysy</left>
+    <right>Kudłaty</right>
+  </card>
+  <card>
+    <left>Nieelastyczny</left>
+    <right>Elastyczny</right>
+  </card>
+  <card>
+    <left>Normalny zwierzak</left>
+    <right>Egzotyczny zwierzak</right>
+  </card>
+  <card>
+    <left>Introwertyk</left>
+    <right>Ekstrawertyk</right>
+  </card>
+  <card>
+    <left>Książka była lepsza</left>
+    <right>Film był lepszy</right>
+  </card>
+  <card>
+    <left>Słaby film</left>
+    <right>Dobry film</right>
+  </card>
+  <card>
+    <left>Brzydki</left>
+    <right>Piękny</right>
+  </card>
+  <card>
+    <left>Staje się wolno</left>
+    <right>Staje sie szybko</right>
+  </card>
+  <card>
+    <left>Robota</left>
+    <right>Kariera</right>
+  </card>
+  <card>
+    <left>Kochane</left>
+    <right>Znienawidzone</right>
+  </card>
+  <card>
+    <left>Jasna strona mocy</left>
+    <right>Ciemna strona mocy</right>
+  </card>
+  <card>
+    <left>Zły dodatek do pizzy</left>
+    <right>Dobry dodatek do pizzy</right>
+  </card>
+  <card>
+    <left>Dystopia</left>
+    <right>Utopia</right>
+  </card>
+  <card>
+    <left>Dojrzała osoba</left>
+    <right>Niedojrzała osoba</right>
+  </card>
+  <card>
+    <left>Niedoceniona rzecz do posiadania</left>
+    <right>Przeceniona rzecz do posiadania</right>
+  </card>
+  <card>
+    <left>Niemiła osoba</left>
+    <right>Miła osoba</right>
+  </card>
+  <card>
+    <left>Film akcji</left>
+    <right>Film przygodowy</right>
+  </card>
+  <card>
+    <left>Mentalnie aktywny</left>
+    <right>Fizycznie aktywny</right>
+  </card>
+  <card>
+    <left>Niekontrowersyjny temat</left>
+    <right>Kontrowersyjny temat</right>
+  </card>
+  <card>
+    <left>Potrzebuje</left>
+    <right>Chce</right>
+  </card>
+  <card>
+    <left>Suche jedzenie</left>
+    <right>Mokre jedzenie</right>
+  </card>
+  <card>
+    <left>Normalna rzecz do posiadania</left>
+    <right>Dziwna rzecz do posiadania</right>
+  </card>
+  <card>
+    <left>Proste</left>
+    <right>Zakrzywione</right>
+  </card>
+  <card>
+    <left>Zła osoba</left>
+    <right>Dobra osoba</right>
+  </card>
+  <card>
+    <left>Lata 80</left>
+    <right>Lata 90</right>
+  </card>
+  <card>
+    <left>Etyczne do zjedzenia</left>
+    <right>Nieetyczne do zjedzenia</right>
+  </card>
+  <card>
+    <left>Kino</left>
+    <right>Film</right>
+  </card>
+  <card>
+    <left>Opcjonalne</left>
+    <right>Wymagane</right>
+  </card>
+  <card>
+    <left>Niedoceniona litera alfabetu</left>
+    <right>Przeceniona litera alfabetu</right>
+  </card>
+  <card>
+    <left>Zwyczajne</left>
+    <right>Niezwykłe</right>
+  </card>
+  <card>
+    <left>Trudne w wymowie</left>
+    <right>Łatwe w wymowie</right>
+  </card>
+  <card>
+    <left>Kiepskiej jakości</left>
+    <right>Wysokiej jakości</right>
+  </card>
+  <card>
+    <left>Nieseksowne</left>
+    <right>Seksowne zwierze</right>
+  </card>
+  <card>
+    <left>Zwyczajne</left>
+    <right>Wyszukane</right>
+  </card>
+  <card>
+    <left>Ma złą reputacje</left>
+    <right>Ma dobrą reputacje</right>
+  </card>
+  <card>
+    <left>Kiepsko wykonane</left>
+    <right>Dobrze wykonane</right>
+  </card>
+  <card>
+    <left>Nie kanapka</left>
+    <right>Kanapka</right>
+  </card>
+  <card>
+    <left>Ciche miejsce</left>
+    <right>Głośne miejsce</right>
+  </card>
+  <card>
+    <left>Komedia</left>
+    <right>Dramat</right>
+  </card>
+  <card>
+    <left>Niebezpieczne</left>
+    <right>Bezpieczne</right>
+  </card>
+  <card>
+    <left>Znaczące kulturowo</left>
+    <right>Nieznaczące kulturowo</right>
+  </card>
+  <card>
+    <left>Do zastąpienia</left>
+    <right>Niezastąpione</right>
+  </card>
+  <card>
+    <left>Najgorszy atleta wszczechczasów</left>
+    <right>Najlepszy atleta wszechczasów</right>
+  </card>
+  <card>
+    <left>Wzór do naśladowania</left>
+    <right>Zły wzór</right>
+  </card>
+  <card>
+    <left>Nie przyydatne wykształcenie</left>
+    <right>Przydatne wykształcenie</right>
+  </card>
+  <card>
+    <left>Pokojowe</left>
+    <right>Wojenne</right>
+  </card>
+  <card>
+    <left>NIedoceniony film</left>
+    <right>Przeceniony film</right>
+  </card>
+  <card>
+    <left>Szorstkie</left>
+    <right>Gładkie</right>
+  </card>
+  <card>
+    <left>Złe dla ciebie</left>
+    <right>Dobre dla ciebie</right>
+  </card>
+  <card>
+    <left>Krągłe</left>
+    <right>Szpiczaste</right>
+  </card>
+  <card>
+    <left>Dowód na to że Bóg istnieje</left>
+    <right>Dowód na to że Bóg nie istnieje</right>
+  </card>
+  <card>
+    <left>Smutny film</left>
+    <right>Wesoły film</right>
+  </card>
+  <card>
+    <left>Strata czasu</left>
+    <right>Dobrze spędzony czas</right>
+  </card>
+  <card>
+    <left>Straszne zwierze</left>
+    <right>Przyjemne zwierze</right>
+  </card>
+  <card>
+    <left>Mainstreamowe</left>
+    <right>Niszowe</right>
+  </card>
+  <card>
+    <left>Krótkotrwałe</left>
+    <right>Długowieczne</right>
+  </card>
+  <card>
+    <left>Nikt tego nie robi</left>
+    <right>Każdy to robi</right>
+  </card>
+  <card>
+    <left>Smierdzi</left>
+    <right>Pachnie</right>
+  </card>
+  <card>
+    <left>Star wars</left>
+    <right>Star trek</right>
+  </card>
+  <card>
+    <left>Przekąska</left>
+    <right>Danie</right>
+  </card>
+  <card>
+    <left>Najmniej źła firma</left>
+    <right>Najbardziej złą firma</right>
+  </card>
+  <card>
+    <left>Miękkie</left>
+    <right>Twarde</right>
+  </card>
+  <card>
+    <left>Codzienna kuchnia</left>
+    <right>Wykwintna kuchnia</right>
+  </card>
+  <card>
+    <left>Kwadratowe</left>
+    <right>Okrągłe</right>
+  </card>
+  <card>
+    <left>Lepsze gorące</left>
+    <right>Lepsze zimne</right>
+  </card>
+  <card>
+    <left>Głupie</left>
+    <right>Genialne</right>
+  </card>
+  <card>
+    <left>Robione na zamówienie</left>
+    <right>Produkowane masowo</right>
+  </card>
+  <card>
+    <left>Kiepska supermoc</left>
+    <right>Dobra supermoc</right>
+  </card>
+  <card>
+    <left>Nieefektywne</left>
+    <right>Efektywne</right>
+  </card>
+  <card>
+    <left>Niewiarygodne</left>
+    <right>Wiarygodne</right>
+  </card>
+  <card>
+    <left>Tandetne</left>
+    <right>Z klasą</right>
+  </card>
+  <card>
+    <left>Tymczasowe</left>
+    <right>Paermanentne</right>
+  </card>
+  <card>
+    <left>Wygląda jak osoba</left>
+    <right>Nie wygląda jak osoba</right>
+  </card>
+  <card>
+    <left>Smakuje źle</left>
+    <right>Smakuje dobrze</right>
+  </card>
+  <card>
+    <left>Sport</left>
+    <right>Gra</right>
+  </card>
+  <card>
+    <left>Słabe</left>
+    <right>Cool</right>
+  </card>
+  <card>
+    <left>Najgorsza żyjąca osoba</left>
+    <right>Najlepsza żyjąca osoba</right>
+  </card>
+  <card>
+    <left>Niedocenione</left>
+    <right>Przecenione</right>
+  </card>
+  <card>
+    <left>Żarcie</left>
+    <right>Jedzenie</right>
+  </card>
+  <card>
+    <left>Nieetyczne</left>
+    <right>Etyczne</right>
+  </card>
+  <card>
+    <left>Kiepski prezent</left>
+    <right>Fajny prezent</right>
+  </card>
+  <card>
+    <left>Niemodne</left>
+    <right>Modne</right>
+  </card>
+  <card>
+    <left>Walczący o wolność</left>
+    <right>Terrorysta</right>
+  </card>
+  <card>
+    <left>Niewybaczalne</left>
+    <right>Wybaczalne</right>
+  </card>
+  <card>
+    <left>Porażka</left>
+    <right>Arcydzieło</right>
+  </card>
+  <card>
+    <left>Nieszkodliwe</left>
+    <right>Szkodliwe</right>
+  </card>
+  <card>
+    <left>Gryffindor</left>
+    <right>Slytherin</right>
+  </card>
+  <card>
+    <left>Niehigieniczne</left>
+    <right>Higieniczne</right>
+  </card>
+  <card>
+    <left>Kiepska muzyka</left>
+    <right>Dobra muzyka</right>
+  </card>
+  <card>
+    <left>Nieprzydatne</left>
+    <right>Przydatne</right>
+  </card>
+  <card>
+    <left>Film, który Godzilla by zepsuła</left>
+    <right>Film, który Godzilla by poprawiła</right>
+  </card>
+  <card>
+    <left>Nieważne</left>
+    <right>Ważne</right>
+  </card>
+  <card>
+    <left>Łatwe do przeliterowania</left>
+    <right>Trudne do przeliterowania</right>
+  </card>
+  <card>
+    <left>Wada</left>
+    <right>Zaleta</right>
+  </card>
+  <card>
+    <left>Niedoceniony muzyk</left>
+    <right>Przecenion muzyk</right>
+  </card>
+  <card>
+    <left>Niepopularna czynność</left>
+    <right>Popularna czynność</right>
+  </card>
+  <card>
+    <left>Podzielone</left>
+    <right>Całe</right>
+  </card>
+  <card>
+    <left>Zawodne</left>
+    <right>Niezawodne</right>
+  </card>
+  <card>
+    <left>Łatwe do zabicia</left>
+    <right>Trudne do zabicia</right>
+  </card>
+  <card>
+    <left>Niestabilne</left>
+    <right>Stabilne</right>
+  </card>
+  <card>
+    <left>Okrągłe zwierze</left>
+    <right>Szpiczaste zwierze</right>
+  </card>
+  <card>
+    <left>Kiepski serial</left>
+    <right>Dobry serial</right>
+  </card>
+  <card>
+    <left>Męskie</left>
+    <right>Kobiece</right>
+  </card>
+  <card>
+    <left>Bezużyteczna część ciała</left>
+    <right>Przydatna część ciała</right>
+  </card>
+  <card>
+    <left>Chwilowa moda</left>
+    <right>Klasyk</right>
+  </card>
+  <card>
+    <left>Słabe</left>
+    <right>Silne</right>
+  </card>
+  <card>
+    <left>Ochydne płatki</left>
+    <right>Pyszne płatki</right>
+  </card>
+  <card>
+    <left>Bezużyteczny wynalazek</left>
+    <right>Przydatny wynalazek</right>
+  </card>
+  <card>
+    <left>Liberalne</left>
+    <right>Konserwatywne</right>
+  </card>
+  <card>
+    <left>Niepopularne</left>
+    <right>Popularne</right>
+  </card>
+  <card>
+    <left>Przyjaciel</left>
+    <right>Wróg</right>
+  </card>
+  <card>
+    <left>Nudne</left>
+    <right>Ekscytujące</right>
+  </card>
+  <card>
+    <left>Pachący w złym sensie</left>
+    <right>Pachnący w dobrym sensie</right>
+  </card>
+  <card>
+    <left>Czarny charakter</left>
+    <right>Bohater</right>
+  </card>
+  <card>
+    <left>Niedoceniona czynność</left>
+    <right>Przeceniona czynność</right>
+  </card>
+  <card>
+    <left>Zbędne w razie wypadku</left>
+    <right>Przydatne w razie wypadku</right>
+  </card>
+  <card>
+    <left>Dla dzieci</left>
+    <right>Dla dorozłych</right>
+  </card>
+  <card>
+    <left>Mądry</left>
+    <right>Inteligentny</right>
+  </card>
+  <card>
+    <left>Łatwe do zrobienia</left>
+    <right>Trudne do zrobienia</right>
+  </card>
+  <card>
+    <left>Bezwartościowe</left>
+    <right>Bezcenne</right>
+  </card>
+  <card>
+    <left>Naturalne</left>
+    <right>Wychowane</right>
+  </card>
+  <card>
+    <left>Dyktatura</left>
+    <right>Demokracja</right>
+  </card>
+  <card>
+    <left>Normalne przywitanie</left>
+    <right>Dziwne przywitanie</right>
+  </card>
+  <card>
+    <left>Nazwa psa</left>
+    <right>Nazwa kota</right>
+  </card>
+  <card>
+    <left>Bezpartyjny</left>
+    <right>Partyjny</right>
+  </card>
+  <card>
+    <left>Policzalne</left>
+    <right>Nieskończone</right>
+  </card>
+  <card>
+    <left>Zwykłe wydarzenie</left>
+    <right>Wydarzenie formalne</right>
+  </card>
+  <card>
+    <left>Zła inwestycja</left>
+    <right>Dobra inwestycja</right>
+  </card>
+  <card>
+    <left>Gadka szmatka</left>
+    <right>Ciężki temat</right>
+  </card>
+  <card>
+    <left>Łagodne</left>
+    <right>Ostre</right>
+  </card>
+  <card>
+    <left>Religijny</left>
+    <right>Świętokradczy</right>
+  </card>
+  <card>
+    <left>Nie sztuka</left>
+    <right>Sztuka</right>
+  </card>
+  <card>
+    <left>Nielegalny</left>
+    <right>Zakazany</right>
+  </card>
+  <card>
+    <left>Dla każdego</left>
+    <right>Dla elit</right>
+  </card>
+  <card>
+    <left>Poza kontrolą</left>
+    <right>Kontrolowane</right>
+  </card>
+  <card>
+    <left>Ciche</left>
+    <right>Głośne</right>
+  </card>
+  <card>
+    <left>Nieseksowny pokemon</left>
+    <right>Seksowny pokemon</right>
+  </card>
+  <card>
+    <left>Tajemnica</left>
+    <right>Wiedza powszechna</right>
+  </card>
+  <card>
+    <left>Za małe</left>
+    <right>Za duże</right>
+  </card>
+  <card>
+    <left>Krótkie</left>
+    <right>Długie</right>
+  </card>
+  <card>
+    <left>Najgorszy rok wszechczasów</left>
+    <right>Najlepszy rok wszechczasów</right>
+  </card>
+  <card>
+    <left>Socjalistyczne</left>
+    <right>Kapitalistyczne</right>
+  </card>
+  <card>
+    <left>Mało znany fakt</left>
+    <right>Fakt znany powszechnie</right>
+  </card>
+  <card>
+    <left>Stacjonarne</left>
+    <right>Przenośne</right>
+  </card>
+  <card>
+    <left>Lokalny problem</left>
+    <right>Globalny problem</right>
+  </card>
+  <card>
+    <left>Talent</left>
+    <right>Umiejętność</right>
+  </card>
+  <card>
+    <left>Najgorsza era do podróży w czasie</left>
+    <right>Najlepsza era do podróży w czasie</right>
+  </card>
+  <card>
+    <left>Najgorszy</left>
+    <right>Najlepszy</right>
+  </card>
+  <card>
+    <left>Mały numer</left>
+    <right>Duzy numer</right>
+  </card>
+  <card>
+    <left>Prawda</left>
+    <right>Fałsz</right>
+  </card>
+  <card>
+    <left>Staromodne</left>
+    <right>Awangardowe</right>
+  </card>
+  <card>
+    <left>Brzydkie słowo</left>
+    <right>Piękne słowo</right>
+  </card>
+  <card>
+    <left>Mały</left>
+    <right>Malutki</right>
+  </card>
+  <card>
+    <left>Nienaturalne</left>
+    <right>Naturalne</right>
+  </card>
+  <card>
+    <left>Osoba godna zaufania</left>
+    <right>Fałzszywa osoba</right>
+  </card>
+  <card>
+    <left>Podróbka</left>
+    <right>Oryginalne</right>
+  </card>
+  <card>
+    <left>Etykieta</left>
+    <right>Maniery</right>
+  </card>
+  <card>
+    <left>Nieseksowny kolor</left>
+    <right>Seksowny kolor</right>
+  </card>
+  <card>
+    <left>Korzystne dla ciebie</left>
+    <right>Kożystne dla każdego</right>
+  </card>
+  <card>
+    <left>Bezsilny</left>
+    <right>Potężny</right>
+  </card>
+  <card>
+    <left>Nie pali</left>
+    <right>Pali</right>
+  </card>
+  <card>
+    <left>Owoc</left>
+    <right>Warzywo</right>
+  </card>
+  <card>
+    <left>Nauka</left>
+    <right>Pseudonauka</right>
+  </card>
+  <card>
+    <left>Zabawny temat</left>
+    <right>Poważny temat</right>
+  </card>
+  <card>
+    <left>Miękkie</left>
+    <right>Sztywne</right>
+  </card>
+  <card>
+    <left>Guilty pleasure</left>
+    <right>Poporostu słabe</right>
+  </card>
+  <card>
+    <left>Plotka</left>
+    <right>Fakt</right>
+  </card>
+  <card>
+    <left>Ciężko na tym usiąść</left>
+    <right>Łatwo na tym usiąść</right>
+  </card>
+  <card>
+    <left>Za mało</left>
+    <right>Za dużo</right>
+  </card>
+  <card>
+    <left>Poziome</left>
+    <right>Pionowe</right>
+  </card>
+  <card>
+    <left>Bezwonne</left>
+    <right>Pachnące</right>
+  </card>
+  <card>
+    <left>Do uściskania</left>
+    <right>Nie do uściskania</right>
+  </card>
+  <card>
+    <left>Niejednorodne</left>
+    <right>Jednorodne</right>
+  </card>
+  <card>
+    <left>Dostępny</left>
+    <right>Wyłączny</right>
+  </card>
+  <card>
+    <left>Zła rasa psa</left>
+    <right>Dobra rasa psa</right>
+  </card>
+  <card>
+    <left>Sztuka</left>
+    <right>Biznes</right>
+  </card>
+  <card>
+    <left>Artysta jednego przeboju</left>
+    <right>Ikona popu</right>
+  </card>
+  <card>
+    <left>Zła rada</left>
+    <right>Dobra rada</right>
+  </card>
+  <card>
+    <left>Tick</left>
+    <right>Tock</right>
+  </card>
+  <card>
+    <left>Zły cukierek</left>
+    <right>Dobry cukierek</right>
+  </card>
+  <card>
+    <left>Tradycyjne</left>
+    <right>Radykalne</right>
+  </card>
+  <card>
+    <left>Złe uczucie w buzi</left>
+    <right>Dobre uczucie w buzi</right>
+  </card>
+  <card>
+    <left>Nielegalne</left>
+    <right>Legalne</right>
+  </card>
+  <card>
+    <left>Głęboka myśl</left>
+    <right>Plytka myśl</right>
+  </card>
+  <card>
+    <left>Kiepska szkoła</left>
+    <right>Dobra szkołą</right>
+  </card>
+  <card>
+    <left>Spóźnialski</left>
+    <right>Zawsze na czas</right>
+  </card>
+  <card>
+    <left>Nie dożyje 100</left>
+    <right>Dożyje 100</right>
+  </card>
+  <card>
+    <left>Zła postać Disneya</left>
+    <right>Dobra postać Disneya</right>
+  </card>
+  <card>
+    <left>Podobny</left>
+    <right>Identyczny</right>
+  </card>
+  <card>
+    <left>Zły prezydent</left>
+    <right>Dobry prezydent</right>
+  </card>
+  <card>
+    <left>Dziwny</left>
+    <right>Obcy</right>
+  </card>
+  <card>
+    <left>Sławny</left>
+    <right>Niesławny</right>
+  </card>
+  <card>
+    <left>Najsłabszy bóg</left>
+    <right>Najsilniejszy bóg</right>
+  </card>
+  <card>
+    <left>Nudna osoba</left>
+    <right>Zabawna osoba</right>
+  </card>
+  <card>
+    <left>Niedoceniona książka</left>
+    <right>Przeceniona książka</right>
+  </card>
+  <card>
+    <left>Mądrość powszechna</left>
+    <right>Skrajne poglądy</right>
+  </card>
+  <card>
+    <left>Najgorszy obowiązek</left>
+    <right>Najlepszy obowiązek</right>
+  </card>
+  <card>
+    <left>Zagrożony gatunek</left>
+    <right>Dominujący gatunek</right>
+  </card>
+  <card>
+    <left>Niebieskie</left>
+    <right>Zielone</right>
+  </card>
+  <card>
+    <left>Przyprawiające o dreszczyk</left>
+    <right>Przelażające</right>
+  </card>
+  <card>
+    <left>Nerd</left>
+    <right>Mięśniak</right>
+  </card>
+  <card>
+    <left>Spodziewane</left>
+    <right>Niespodziewane</right>
+  </card>
+  <card>
+    <left>Osoba, którą mógłbyś pobić</left>
+    <right>Osoba, która by cie pobiła</right>
+  </card>
+  <card>
+    <left>Nieuzasadnina fobia</left>
+    <right>Uzasadniona fobia</right>
+  </card>
+  <card>
+    <left>Niedoceniona gra</left>
+    <right>Przeceniona gra</right>
+  </card>
+</cards>

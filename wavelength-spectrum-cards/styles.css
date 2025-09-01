@@ -1,0 +1,169 @@
+:root {
+  --background-color: #ffffff; /* Light mode background color */
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden; /* Prevent scrolling */
+  width: 100%; /* Ensure the viewport covers full width */
+  height: 100%; /* Ensure the viewport covers full height */
+  min-height: 100dvh; /* Ensure full viewport height coverage */
+  min-width: 100vw; /* Ensure full viewport width coverage */
+  background-color: var(
+    --background-color
+  ) !important; /* Dynamic background color */
+  -webkit-touch-callout: none; /* Prevent context menu on long press */
+  -webkit-user-select: none; /* Prevent text selection */
+  -ms-user-select: none; /* Prevent text selection */
+  user-select: none; /* Prevent text selection */
+  position: fixed; /* Fix position to prevent gaps during orientation changes */
+  top: 0; /* Align to top */
+  left: 0; /* Align to left */
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Arial, sans-serif;
+}
+
+/* The card container */
+#card {
+  display: flex;
+  width: 85%; /* Default width */
+  max-width: 800px; /* Limit max size on large screens */
+  height: 35%; /* Default height */
+  max-height: 400px; /* Limit max height */
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  overflow: hidden;
+  cursor: pointer;
+  user-select: none; /* Prevent text selection on the card */
+}
+
+/* Individual sides of the card */
+.side {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  flex: 1;
+  padding: 20px;
+  color: #fff;
+  font-weight: bold;
+  font-size: clamp(28px, 3vw, 36px); /* Balanced responsive font size */
+  text-align: center;
+  position: relative;
+  word-wrap: break-word; /* Prevent text overflow */
+  overflow: hidden; /* Prevent content overflow */
+}
+
+/* Arrow styles */
+.arrow {
+  font-size: clamp(20px, 4vw, 40px); /* Balanced arrow size */
+  color: rgba(255, 255, 255, 0.9); /* Keep the color slightly opaque */
+  position: absolute;
+  top: 10px; /* Adjust arrow position */
+}
+
+/* Dynamic colors */
+.color1 {
+  background-color: #034f84;
+}
+
+.color2 {
+  background-color: #92a8d1;
+}
+
+.color3 {
+  background-color: #f7786b;
+}
+
+.color4 {
+  background-color: #c94c4c;
+}
+
+.color5 {
+  background-color: #622569;
+}
+
+.color6 {
+  background-color: #b8a9c9;
+}
+
+/* Media Query: Portrait Mode (iPhone 16 Pro) */
+@media (max-width: 412px) and (orientation: portrait) {
+  #card {
+    width: 95%; /* Slightly wider cards in portrait mode */
+    height: 25% !important; /* Taller cards for readability */
+  }
+
+  .side {
+    font-size: clamp(
+      20px,
+      5vw,
+      40px
+    ); /* Larger font size for better readability */
+  }
+
+  .arrow {
+    font-size: clamp(24px, 6vw, 42px); /* Slightly larger arrows */
+  }
+}
+
+/* Media Query: Portrait Mode (iPhone 16 Pro) */
+@media (min-width: 413px) and (max-width: 414px) and (orientation: portrait) {
+  #card {
+    width: 95%; /* Slightly wider cards in portrait mode */
+    height: 22% !important; /* Taller cards for readability */
+  }
+
+  .side {
+    font-size: clamp(21px, 4vw, 32px); /* Adjusted font size */
+  }
+
+  .arrow {
+    font-size: clamp(24px, 6vw, 42px); /* Slightly larger arrows */
+  }
+}
+
+/* Media Query: Landscape Mode (iPhone 16 Pro) */
+@media (min-width: 415px) and (max-width: 852px) and (orientation: landscape) {
+  #card {
+    width: 90%; /* Use most of the screen width */
+    height: 65% !important; /* Significantly taller cards in landscape mode */
+  }
+
+  .side {
+    font-size: clamp(18px, 4vw, 30px); /* Adjusted font size */
+  }
+
+  .arrow {
+    font-size: clamp(22px, 5vw, 38px); /* Balanced arrow size */
+  }
+}
+
+/* Media Query: Landscape Mode (Pixal 7) */
+@media (min-width: 853px) and (max-width: 920px) and (orientation: landscape) {
+  #card {
+    width: 90%;
+    height: 65% !important;
+
+    .side {
+      font-size: clamp(18px, 4vw, 30px); /* Adjusted font size */
+    }
+
+    .arrow {
+      font-size: clamp(22px, 5vw, 38px); /* Balanced arrow size */
+    }
+  }
+}
+/* Dark mode styles */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background-color: #000000; /* Dark mode background color */
+  }
+}
